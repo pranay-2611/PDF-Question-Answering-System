@@ -1,0 +1,1 @@
+A PDF Question Answering system built with RAG, LangChain, FAISS, Hugging Face embeddings, Groq LLM, and Streamlit. Upload or process PDF documents, retrieve relevant content using semantic search, and generate accurate answers based on the document context.
